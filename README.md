@@ -1,7 +1,7 @@
 ## 💬 이광민 
 <img src="https://img.shields.io/badge/dltkdtn456@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/dltkdtn56@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
-👋 안녕하세요! Node.js와 Express를 사용하여 웹 개발을 공부하며 개발하는 **백엔드 개발자**입니다.
+👋 안녕하세요!! Node.js와 Express를 사용하여 웹 개발을 공부하며 개발하는 **백엔드 개발자**입니다.
 
 **개발**과 함께 **게임**🎮과 **군것질**🍗을 좋아합니다.
 
