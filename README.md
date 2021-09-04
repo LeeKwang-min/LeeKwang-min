@@ -15,7 +15,9 @@
 ## 🛠Tools
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Flutter&logoColor=white"/> 
 
-t
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKwang-min&show_icons=true&theme=gruvbox)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdtn56)](https://solved.ac/dltkdtn56/)
+
+
 <!--
 **LeeKwang-min/LeeKwang-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
