@@ -7,6 +7,8 @@
 
 언제나 후회없이 **최선을 다하자**라는 마음을 가지고 일과 생활에 임하고 있습니다.
 
+<br>
+
 ## 🖥Skills
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> 
 
@@ -14,6 +16,10 @@
 
 ## 🛠Tools
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Flutter&logoColor=white"/> 
+
+
+<br><br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeKwang-min&show_icons=true&theme=gruvbox)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdtn56)](https://solved.ac/dltkdtn56/)
 
