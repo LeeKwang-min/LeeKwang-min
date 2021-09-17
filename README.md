@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeKwangmin&fontSize=90)
 <img src="https://img.shields.io/badge/dltkdtn456@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/dltkdtn56@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
 
-👋 안녕하세요! Node.js와 Express를 공부하며 **백엔드 개발자**를 희망하는 작은 개발자입니다.
+👋 안녕하세요! Node.js와 Express를 공부하며 **웹 개발자**를 희망하는 작은 개발자입니다.
 
 **개발**을 재밌어하며 **게임**🎮과 **술을 제외한 마실 것**🧉 좋아합니다.
 
