@@ -26,8 +26,8 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 
 ## 📚Education
-- 2021. 07. 19. ~ 2021. 08. 13. **부스트캠프** 웹·모바일 6기 챌린지 (네이버 커넥트재단)
-- 2021. 08. 23. ~ 2021. 12. 03. **부스트캠프** 웹·모바일 6기 멤버십 (네이버 커넥트재단)
+- (2021. 07. 19. ~ 2021. 08. 13.) - **부스트캠프** 웹·모바일 6기 챌린지 (네이버 커넥트재단) - 웹 풀스택
+- (2021. 08. 23. ~ 2021. 12. 03.) - **부스트캠프** 웹·모바일 6기 멤버십 (네이버 커넥트재단) - 웹 풀스택
 
 <br><br>
 
