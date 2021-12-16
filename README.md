@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeKwangmin&fontSize=90)
-<img src="https://img.shields.io/badge/dltkdtn456@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/dltkdtn56@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+<img src="https://img.shields.io/badge/dltkdtn456@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/dltkdtn56@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
 
 👋 안녕하세요! **웹 프론트엔드**를 희망하는 우상향 그래프를 가진 개발자입니다.
 
@@ -7,6 +7,10 @@
 
 언제나 후회없이 **최선을 다하자**라는 마음을 가지고 일과 생활에 임하고 있습니다.
 
+## Information
+|포트폴리오|
+|--|
+|[Notion_Link](https://bit.ly/33pRDIo)|
 
 ## 🖥Tech Stack
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> 
