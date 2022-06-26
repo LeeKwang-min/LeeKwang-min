@@ -1,23 +1,24 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeKwangmin&fontSize=90)
 <img src="https://img.shields.io/badge/dltkdtn456@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/dltkdtn56@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
 
-👋 안녕하세요! **웹 프론트엔드**를 희망하는 우상향 그래프를 가진 개발자입니다.
+👋 안녕하세요! **웹 프론트엔드**를 희망하는 주니어 개발자입니다.
 
-**개발**을 재밌어하며 **게임**🎮과 **술을 제외한 마실 것**🧉 좋아합니다.
-
-언제나 후회없이 **최선을 다하자**라는 마음을 가지고 일과 생활에 임하고 있습니다.
+언제나 후회없이 **최선을 다하자**라는 마음을 가지고 있습니다.
 
 ## Information
 |포트폴리오|
 |--|
 |[Notion_Link](https://bit.ly/33pRDIo)|
 
+## 👯Career
+- (2022.02 ~ ) - **휴레이포지티브** - [웹 프론트엔드]
+
 ## 🖥Tech Stack
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> 
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=blue"/> 
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=JavaScript&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/react-query-010101?style=flat-square&logo=react-query&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled components&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/>
 
@@ -36,7 +37,6 @@
 <br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dltkdtn56)](https://solved.ac/dltkdtn56/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKwang-min&layout=compact)](https://github.com/LeeKwang-min/github-readme-stats)
-
 
 
 <!--
