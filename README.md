@@ -1,9 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=LeeKwangmin&fontSize=90)
-<img src="https://img.shields.io/badge/dltkdtn456@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/dltkdtn56@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
 
-👋 안녕하세요! **웹 프론트엔드**를 희망하는 주니어 개발자입니다.
+  <img src="https://img.shields.io/badge/dltkdtn56@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/> 
 
-언제나 후회없이 최선을  **누구나 사용하기 편하고 좋은 프로그램을 만들자**라는 마음을 가지고 있습니다.
+안녕하세요! 🙌
+
+소통을 통해 즐겁게 성장하자는 목표를 가지고
+
+일상에 녹아들 수 있는 서비스를 만들자는 꿈을 가진
+
+주니어 웹 프론트엔드 개발자 이광민입니다. 😁
+
+## 저는...
+🎙️ 다양한 사람들과 소통하고 배우며 문제를 해결하는 것을 즐겁게 생각합니다.
+
+📚 경험과 지식을 정리하고 나누는 것을 좋아합니다.
+
+🎊 성취감을 통해 개발자로서의 뿌듯함을 느낍니다.
+
+🔥 언제나 꿈과 목표를 말할 수 있는 당당한 사람이 되고자합니다.
+
+❤️ 한겨울의 오뎅탕 같은 따뜻하고 배려심 있는 사람이 되고자 합니다.
 
 ## Information
 |포트폴리오|
@@ -18,7 +34,7 @@
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=TypeScript&logoColor=blue"/> 
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/react-query-010101?style=flat-square&logo=react-query&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-010101?style=flat-square&logo=recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-query-010101?style=flat-square&logo=react-query&logoColor=white"/> <img src="https://img.shields.io/badge/recoil-010101?style=flat-square&logo=recoil&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled components&logoColor=white"/> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/> <img src="https://img.shields.io/badge/emotion-DB7093?style=flat-square&logo=emotion&logoColor=white"/>
 
