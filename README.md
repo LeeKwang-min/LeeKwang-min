@@ -2,7 +2,7 @@
   
 |이력서|포트폴리오|
 |---|---|
-|[Resume](https://kwangmin-portfolio.vercel.app/resume)|[Portfolio](https://kwangmin-portfolio.vercel.app/)|
+|[Resume](https://kwangmin-portfolio.vercel.app/)|[Portfolio](https://kwangmin-portfolio.vercel.app/portfolio)|
 
 ### Career
 - (2022.02 ~ ) - **휴레이포지티브** - [웹 프론트엔드]
